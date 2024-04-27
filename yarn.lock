@@ -218,6 +218,11 @@
   resolved "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.20.2.tgz"
   integrity sha512-4J6IRT+10J3aJH3l1yzEg9y3wkTDgDk7TSDFX+wKFiWjqWp/iCfLIYzGyasx9l0SAFPT1HwSCR+0w/h1ES/MjA==
 
+"@esbuild/win32-x64@0.20.2":
+  version "0.20.2"
+  resolved "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.20.2.tgz"
+  integrity sha512-N49X4lJX27+l9jbLKSqZ6bKNjzQvHaT8IIFUy+YIqmXQdjYCToGWwOItDrfby14c78aDd5NHQl29xingXfCdLQ==
+
 "@eslint-community/eslint-utils@^4.2.0":
   version "4.4.0"
   resolved "https://registry.npmjs.org/@eslint-community/eslint-utils/-/eslint-utils-4.4.0.tgz"
@@ -336,6 +341,11 @@
   version "4.14.2"
   resolved "https://registry.npmjs.org/@rollup/rollup-darwin-arm64/-/rollup-darwin-arm64-4.14.2.tgz"
   integrity sha512-SWsr8zEUk82KSqquIMgZEg2GE5mCSfr9sE/thDROkX6pb3QQWPp8Vw8zOq2GyxZ2t0XoSIUlvHDkrf5Gmf7x3Q==
+
+"@rollup/rollup-win32-x64-msvc@4.14.2":
+  version "4.14.2"
+  resolved "https://registry.npmjs.org/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.14.2.tgz"
+  integrity sha512-teAqzLT0yTYZa8ZP7zhFKEx4cotS8Tkk5XiqNMJhD4CpaWB1BHARE4Qy+RzwnXvSAYv+Q3jAqCVBS+PS+Yee8Q==
 
 "@socket.io/component-emitter@~3.1.0":
   version "3.1.0"

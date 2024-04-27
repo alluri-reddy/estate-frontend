@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://estate-backend-aq9k.onrender.com/:splat"
+  status = 200
+
+
